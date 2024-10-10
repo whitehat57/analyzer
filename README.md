@@ -1,6 +1,6 @@
 # analyzer
 mata mata
-cara install :
+# cara install :
 1. ketuhanan yg maha esa
 2. kemanusiaan yg adil dan beradab
 3. persatuan indonesia
